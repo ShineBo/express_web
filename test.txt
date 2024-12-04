@@ -1,0 +1,45 @@
+{
+  "name": "Iced Latte",
+  "size": "Medium",
+  "price": 3.5,
+  "ingredients": ["Coffee", "Milk", "Ice"],
+  "category": "Cold",
+  "isAvailable": true,
+  "description": "A refreshing iced coffee drink with milk."
+}
+{
+  "name": "Iced Mocha",
+  "size": "Medium",
+  "price": 4.5,
+  "ingredients": ["Espresso", "Milk", "Chocolate Syrup", "Ice"],
+  "category": "Cold",
+  "isAvailable": true,
+  "description": "A rich chocolate-flavored coffee served over ice."
+}
+{
+  "name": "Strawberry Smoothie",
+  "size": "Small",
+  "price": 3.8,
+  "ingredients": ["Strawberries", "Banana", "Yogurt", "Ice"],
+  "category": "Cold",
+  "isAvailable": true,
+  "description": "A refreshing and fruity smoothie made with fresh strawberries."
+}
+{
+  "name": "Matcha Latte",
+  "size": "Large",
+  "price": 5.0,
+  "ingredients": ["Matcha Powder", "Milk", "Honey"],
+  "category": "Hot",
+  "isAvailable": true,
+  "description": "A warm and creamy matcha latte with a hint of sweetness."
+}
+{
+    "name": "Chai Latte",
+    "size": "Medium",
+    "price": 4.0,
+    "ingredients": ["Tea", "Milk", "Spices"],
+    "category": "Hot",
+    "isAvailable": true,
+    "description": "A spiced tea latte."
+}
